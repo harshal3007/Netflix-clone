@@ -18,7 +18,7 @@ export const Nav = () => {
       </div>
       </div>
       <div>
-      <input className="NavInput" type="text" placeholder='Titles,people,generes' />
+      <input className="NavInput" type="text" placeholder='Titles,people,genres' />
       <h3 className="User">User</h3>
       <h3 className="NotifLogo">
         <BiBell />
